@@ -1,10 +1,10 @@
 one-1
-<<<<<<< HEAD
+
 my name is mahdi hasan
 my father's name md jamal uddin 
 my mother's name razia
 
-=======
+
 mahdi hasan
 md jamal uddin
 razia
@@ -21,4 +21,5 @@ alim
 mamun
 maruf
 mamotas
->>>>>>> main
+jamal uddin
+razia
